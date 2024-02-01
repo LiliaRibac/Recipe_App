@@ -1,6 +1,7 @@
 import React from 'react';
 
 import RecipeItem from './RecipeItem';
+
 function RecipeList({ recipes, deleteRecipe }) {
   // TODO: Display the list of recipes using the structure of table that is provided.
   // TODO: Create at least one additional component that is used by this component.
